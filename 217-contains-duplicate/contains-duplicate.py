@@ -3,6 +3,5 @@ class Solution(object):
         n = set(nums)
         if len(nums) != len(n):
             return True
-        else:
-            return False
+        return False
       
